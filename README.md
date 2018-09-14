@@ -1,3 +1,3 @@
 # formation
 
-er pas vers la certification GIT !!
+Premier pas vers la certification GIT !!
